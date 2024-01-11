@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello, World! 👋<br>I'm a budding software developer, passionate about coding and technology. Although I'm just starting my professional journey, I've spent countless hours honing my skills through personal projects and online courses.<br><br>Feel free to reach out to me for any exciting opportunities, collaborations, or just a chat about all things tech!<br><br>Thank you for visiting my profile. Happy coding! 💻
+# Hello, World! 👋<br>I'm a budding software developer.<br><br>Thank you for visiting my profile. Happy coding! 💻
 
 
 ## 🌐 Socials:
