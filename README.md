@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello, World! 👋<br>I'm a software developer.<br><br>Thank you for visiting my profile. Happy coding! 💻
+ Hello, World! 👋<br>I'm a software developer.<br><br>Thank you for visiting my profile. Happy coding! 💻
 
 
 ## 🌐 Socials:
